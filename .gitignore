@@ -1,0 +1,10 @@
+#Fichero para ignorar archivos
+
+#copias de seguridad
+*.bat
+
+#archivos temporales
+*-tmp
+
+#clases complicadas
+*.class
